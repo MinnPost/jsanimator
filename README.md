@@ -6,4 +6,5 @@ A really basic animation library based off of [Animator.js](http://berniesumptio
 
 ```
 npm install uglify-js
+./node_modules/.bin/uglifyjs --output=jsanimator.min.js jsanimator.js
 ```
